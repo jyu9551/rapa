@@ -4,12 +4,16 @@ HL Mando & HL Klemove Intelligent Vehicle School
 
 1. Git bash에서
    >> git config --global user.name “jyu9551"
+   
    >> git config --global user.email “jyu9551@naver.com"
+   
    >> git config --list
    
 2. 초기
    >> git init
+   
    >> git add .
+   
    >> git status
    >> git commit -m "first commit"
    >> git branch -M main
