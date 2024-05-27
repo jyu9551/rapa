@@ -15,17 +15,25 @@ HL Mando & HL Klemove Intelligent Vehicle School
    >> git add .
    
    >> git status
-   >> git commit -m "first commit"
-   >> git branch -M main
-   >> git remote add origin 본인깃주소
-   >> git remote -v
-   >> git push -u origin main
    
-3. 추가로 올리기 (수정)
-   >> git add .
-   >> git commit -m "second"
+   >> git commit -m "first commit"
+   
+   >> git branch -M main
+   
+   >> git remote add origin 본인깃주소
+   
+   >> git remote -v
+   
    >> git push -u origin main
 
-4. 협업
+3. 추가로 올리기 (수정)
+   >> git add .
+   
+   >> git commit -m "second"
+   
+   >> git push -u origin main
+
+5. 협업
    >> git clone 주소
+   
    >> git pull origin main
