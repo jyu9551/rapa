@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int main() {
 	float f = 3.14159265359F;
 	double d = 3.14159265359;
@@ -12,4 +12,4 @@ int main() {
 	printf("%f\n", f);
 	printf("%f\n", d);
 	printf("%d\n", f == d);
-}*/
+}

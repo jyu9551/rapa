@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int main() {
 	// 1. 변수 초기화 
 	int num1 = 10;
@@ -13,4 +13,4 @@ int main() {
 
 	// 4. 여러개 선언
 	int n1, n2, n3;
-}*/
+}
