@@ -1,5 +1,4 @@
 #include <stdio.h>
-int sum;
 
 int main(){
     for (int i=1; i<=9; i++){
